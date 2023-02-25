@@ -14,5 +14,10 @@
     "react": "^18.2.0",
     "tsconfig": "*",
     "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@mantine/core": "^5.10.4",
+    "@mantine/hooks": "^5.10.4",
+    "zustand": "^4.3.3"
   }
 }
